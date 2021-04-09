@@ -1,6 +1,6 @@
 ![Image of fast.ai logo](images/logo.png)
 
-#Out of the Mouth of Babes Blog
+# Out of the Mouth of Babes Blog
 
 **Started 9 April 2021**
 
