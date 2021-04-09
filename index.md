@@ -1,9 +1,9 @@
 ![Image of fast.ai logo](images/logo.png)
 
-# Out of the Mouth of Babes Blog
+# Philip's Blog
 
 **Started 9 April 2021**
 
-A blog about issues that children face
+A blog about electronic information
  
 [Markdown](https://guides.github.com/features/mastering-markdown/)
